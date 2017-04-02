@@ -1,8 +1,7 @@
-console.log("Hello react!");
-
+//console.log("Hello react!");
 const jsContainer = document.getElementById("js");
 const reactContainer = document.getElementById("react");
-const date = new Date();
+//const date = new Date();
 
 console.log(date);
 
